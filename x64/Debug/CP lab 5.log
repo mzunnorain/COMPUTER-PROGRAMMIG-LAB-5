@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: Two or more files with the name of Source.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\source1\repos\CP lab #5 do while\Source.cpp, ..\..\..\source2\repos\CP lab #5 do while\Source.cpp, ..\..\..\source3\repos\CP lab #5 do while\Source.cpp, ..\..\..\source4\repos\CP lab #5 do while\Source.cpp, ..\..\..\source5\Source.cpp, ..\..\..\source6\repos\CP lab 5\Source.cpp, ..\CP lab #5 do while\Source.cpp.
+  Source.cpp
+  CP lab 5.vcxproj -> C:\Users\W10\source\repos\CP lab 5\x64\Debug\cp lab#5 do while.exe
